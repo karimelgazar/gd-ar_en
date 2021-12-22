@@ -8,7 +8,7 @@
 
 # 1. `Golden Dictionary` تثبيت برنامج
 
-## [فيديو الشرح](https://www.youtube.com/watch?v=sjc6QkKNyGI&list=PLO1D3YWS7ep1u30a-rPHnTBMn7duXn9lI) 
+## [فيديو الشرح](https://www.youtube.com/watch?v=P-Uvqv2iRKw) 
 
 
 ## 🐧 أوامر لينكس 🐧
